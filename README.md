@@ -1,4 +1,4 @@
-<h1>Merhaba 👋, ben</h1>
+<h1>Merhaba 👋</h1>
 <p>Backend ve Frontend geliştiriyorum.</p>
 
 <h2>🚀 Kullandığım Diller ve Araçlar</h2>
